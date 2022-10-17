@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SillyCryptographer, a mathematics, physics and computer scientist enthusiast
+- 👀 I’m interested in ... cryptography, differential geometry, programming and data analysis.
+- 🌱 I’m currently learning ... Java
+- 📫 How to reach me ... send a mail: physicsenthusiast6@gmail.com
